@@ -80,7 +80,7 @@ A mobile-first city relocation assistant. Uses Spring WebFlux with `Flux.merge` 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sgworld123&show_icons=true&theme=transparent&hide_border=true&title_color=ffe0c2&icon_color=ffe0c2&text_color=ffe0c2&bg_color=081a1b&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sgworld123&show_icons=true&theme=transparent&hide_border=true&title_color=ffe0c2&icon_color=ffe0c2&text_color=ffe0c2&bg_color=081a1b" height="175"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgworld123&theme=transparent&hide_border=true&title_color=ffe0c2&text_color=ffe0c2&bg_color=081a1b&layout=compact" height="175"/>
 
