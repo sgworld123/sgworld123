@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffe0c2&height=140&section=header&text=Hi%2C%20I'm%20Shreyansh%20Gupta%20👋&fontSize=34&fontColor=081a1b&fontAlignY=45&animation=fadeIn&desc=I%20build%20backends%20that%20actually%20hold%20up%20under%20pressure&descSize=15&descAlignY=65&descFontColor=081a1b"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffe0c2&height=140&section=header&text=Hi%2C%20I'm%20Shreyansh%20Gupta%20👋&fontSize=34&fontColor=081a1b&fontAlignY=45&animation=fadeIn&descSize=15&descAlignY=65&descFontColor=081a1b"/>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500"/>
 
@@ -85,8 +85,8 @@ A mobile-first city relocation assistant. Uses Spring WebFlux with `Flux.merge` 
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sgworld123&theme=transparent&hide_border=true&ring=ffe0c2&fire=ffe0c2&currStreakLabel=ffe0c2&sideLabels=ffe0c2&dates=ffe0c2&currStreakNum=ffe0c2&sideNums=ffe0c2&background=081a1b" height="175"/>
-
+<img src="https://streak-stats.demolab.com?user=sgworld123&theme=transparent&hide_border=true&ring=ffe0c2&fire=ffe0c2&currStreakLabel=ffe0c2&sideLabels=ffe0c2&dates=ffe0c2&currStreakNum=ffe0c2&sideNums=ffe0c2&background=081a1b" height="175"/>
+</div>
 </div>
 
 ---
@@ -95,7 +95,7 @@ A mobile-first city relocation assistant. Uses Spring WebFlux with `Flux.merge` 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sgworld123&bg_color=081a1b&color=ffe0c2&line=ffe0c2&point=ffe0c2&area=true&area_color=393028&hide_border=true&custom_title=Consistency%20over%20everything&title_color=ffe0c2"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sgworld123&bg_color=081a1b&color=ffe0c2&line=ffe0c2&point=ffe0c2&area=true&area_color=393028&hide_border=true&title_color=ffe0c2"/>
 
 </div>
 
@@ -103,7 +103,7 @@ A mobile-first city relocation assistant. Uses Spring WebFlux with `Flux.merge` 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sgworld123&label=Profile+Views&color=ffe0c2&labelColor=081a1b&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sgworld123&label=Profile+Views&color=393028&labelColor=081a1b&style=for-the-badge" />
 
 <br/><br/>
 
