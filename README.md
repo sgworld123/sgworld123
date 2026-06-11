@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffe0c2&height=140&section=header&text=Hi%2C%20I'm%20Shreyansh%20Gupta%20👋&fontSize=34&fontColor=081a1b&fontAlignY=45&animation=fadeIn&desc=I%20build%20backends%20that%20actually%20hold%20up%20under%20pressure&descSize=15&descAlignY=65&descFontColor=081a1b"/>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500"/>
+
 </div>
 
 ---
@@ -32,32 +34,29 @@ Most of my time goes into Spring Boot microservices, distributed systems, and ma
 # 💻 What I Work With
 
 ### 🖥️ Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,python,ts,html,css" />
+</p>
 
 ### ⚙️ Backend & Systems
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-%23ffe0c2.svg?style=for-the-badge&logo=fastapi&logoColor=081a1b)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,rabbitmq,redis" />
+</p>
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
 
-### 🛠️ Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,linux,postman" />
+</p>
 
 ---
 
@@ -102,19 +101,11 @@ A mobile-first city relocation assistant. Uses Spring WebFlux with `Flux.merge` 
 
 ---
 
-# 🏅 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sgworld123&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+<img src="https://komarev.com/ghpvc/?username=sgworld123&label=Profile+Views&color=ffe0c2&labelColor=081a1b&style=for-the-badge" />
 
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=sgworld123&label=Profile%20Views&icon=5&color=6)](https://visitcount.itsvg.in)
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffe0c2&height=90&section=footer"/>
 
